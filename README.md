@@ -9,4 +9,5 @@
 1. Criação da logo
 2. Organização da tela de login, cadastro e catálogo
 3. Design das telas principais dos livros
- 
+- No trello o grupo dividiu as tarefas e armazenou as informações do processo
+  
